@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hello
+
+My name is Luigi Giuseppe and i'll be starting my first repository.
